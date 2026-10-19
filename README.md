@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:1E3C72,100:2A5298&height=200&section=header&text=Serveis%20de%20Xarxa&fontSize=52&fontColor=ffffff&desc=MP%200227%20-%202n%20SMX&descSize=18&descAlignY=70&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Serveis%20de%20Xarxa&fontSize=50&fontColor=ffffff&desc=MP%200227%20-%202n%20SMX&descSize=18&descAlignY=72&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/github/commit-activity/m/jordievstegneev22/Serveis-de-xarxa?style=flat-square&color=orange">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3C72,100:2A5298&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
 
 ## 📂 Contingut
 
@@ -31,7 +31,7 @@
 | 🖧 | [**AA2 · Avaluació Server DHCP**](./AA2-Avaluaci-Server-DHCP.d.d.d.d) | Desplegament i configuració d'un servidor DHCP amb Kea, comprovació des del client i anàlisi del procés DORA. | ✅ |
 | 🔜 | *Properes activitats* | El repositori s'anirà ampliant durant el curs. | ⏳ |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3C72,100:2A5298&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
 
 ## 🔄 El procés DORA
 
@@ -74,8 +74,4 @@ el **valor observat** i la **conclusió** de cada comprovació.
 > [!NOTE]
 > Repositori acadèmic del cicle de Sistemes Microinformàtics i Xarxes (SMX).
 
-<p align="center">
-  <sub>👤 <b>Jordi Evstegneev</b> · 2n SMX · Curs 2025–2026</sub>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:2A5298,100:1E3C72&height=140&section=footer"/>
+<p
