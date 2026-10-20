@@ -27,15 +27,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
 
-## 🔄 El procés DORA
-
-| | Missatge | Qui l'envia | Què fa |
-| :--: | --- | --- | --- |
-| **D** | `DISCOVER` | 💻 Client → 🌐 | Cerca servidors DHCP a la xarxa (broadcast) |
-| **O** | `OFFER` | 🖥️ Servidor → 💻 | Ofereix una adreça IP disponible del pool |
-| **R** | `REQUEST` | 💻 Client → 🖥️ | Accepta formalment l'oferta rebuda |
-| **A** | `ACK` | 🖥️ Servidor → 💻 | Confirma la concessió i el temps de lease |
-
 <details>
 <summary>🛠️ <b>Entorn de treball</b> (clica per desplegar)</summary>
 
