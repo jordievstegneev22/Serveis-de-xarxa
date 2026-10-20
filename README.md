@@ -29,16 +29,12 @@
 
 ## 🔄 El procés DORA
 
-```mermaid
-
-sequenceDiagram
-    participant C as 💻 Client (Zorin OS)
-    participant S as 🖥️ Servidor (Kea DHCP)
-    C->>S: 1. DISCOVER (broadcast)
-    S->>C: 2. OFFER (adreça disponible)
-    C->>S: 3. REQUEST (accepta l'oferta)
-    S->>C: 4. ACK (concessió confirmada)
-```
+| | Missatge | Qui l'envia | Què fa |
+| :--: | --- | --- | --- |
+| **D** | `DISCOVER` | 💻 Client → 🌐 | Cerca servidors DHCP a la xarxa (broadcast) |
+| **O** | `OFFER` | 🖥️ Servidor → 💻 | Ofereix una adreça IP disponible del pool |
+| **R** | `REQUEST` | 💻 Client → 🖥️ | Accepta formalment l'oferta rebuda |
+| **A** | `ACK` | 🖥️ Servidor → 💻 | Confirma la concessió i el temps de lease |
 
 <details>
 <summary>🛠️ <b>Entorn de treball</b> (clica per desplegar)</summary>
@@ -63,7 +59,6 @@ sequenceDiagram
 Cada activitat té la seva carpeta amb el document de lliurament i les captures
 que serveixen d'evidència. En les pràctiques es documenta el **valor esperat**,
 el **valor observat** i la **conclusió** de cada comprovació.
-
 
 </details>
 
