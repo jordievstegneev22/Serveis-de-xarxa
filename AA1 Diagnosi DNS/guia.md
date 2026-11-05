@@ -229,3 +229,15 @@ ping usuari-VirtualBox.local
 - Documentació d'Amazon Route 53 i Amazon CloudFront (docs.aws.amazon.com)
 - Apunts del mòdul 0227 Serveis de xarxa
 - Eines: `ip`, `dig` (BIND 9.18.39), `nslookup`, `hostname` a Zorin OS; `ping` a Windows PowerShell
+
+### Declaració d'ús d'IA generativa
+
+En l'elaboració d'aquest treball s'ha utilitzat l'eina d'intel·ligència artificial generativa **Claude** (Anthropic) com a suport en les tasques següents:
+
+- El disseny del mapa conceptual del DNS.
+- La preparació del guió de la píndola formativa.
+- El muntatge i l'edició del vídeo (unió dels clips, retall dels silencis i incorporació del mapa conceptual en pantalla).
+
+Tot el contingut generat amb l'ajuda d'aquesta eina ha estat revisat per l'autor del treball, que també ha enregistrat íntegrament el vídeo.
+
+- **Enllaç a la conversa amb Claude:** <https://claude.ai/share/16af7388-d104-4301-a081-8f03f845f602>
