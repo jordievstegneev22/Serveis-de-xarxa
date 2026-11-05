@@ -7,10 +7,13 @@
 
 ---
 
-## 1. Vídeo explicatiu del DNS
+## 1. Fase teòrica: píndola formativa i mapa conceptual
 
-- **Enllaç al vídeo:** [ENGANXA AQUÍ L'ENLLAÇ DE YOUTUBE]
+- **Vídeo (píndola formativa):** [Pindola_DNS_Jordi.mp4](Pindola_DNS_Jordi.mp4)
 - **Durada:** 6:09
+- **Mapa conceptual:** [Mapa_conceptual_DNS.pdf](Mapa_conceptual_DNS.pdf)
+
+El vídeo explica els conceptes de DNS recolzant-se en el mapa conceptual.
 
 ---
 
